@@ -2,7 +2,7 @@
 repo_path: ./ # CHANGE
 
 # Path to FASTA data
-fasta_path: primates.fa # CHANGE
+fasta_path: DS1.fasta # CHANGE
 
 # Substitution model
 substitution_model: F81
